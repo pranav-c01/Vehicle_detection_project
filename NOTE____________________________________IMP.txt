@@ -1,0 +1,1 @@
+firstly omment object_detection line in requirements.txt after all the installations other than objec_detection install it in last separately becoz we need tensorflow 1.14 to install first 
